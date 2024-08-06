@@ -523,7 +523,10 @@ footer {
     background-color: #F5FCF8;
     padding-bottom:113px;
   }
-  
+  .news-list {
+    width:90%;
+    margin:0 auto;
+  }
   .news-list-item {
     padding-top:18px;
     padding-bottom:18px;
